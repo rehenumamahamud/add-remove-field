@@ -1,0 +1,41 @@
+
+
+body {
+  background-color: #f0f0f0cf;
+  font-family: Arial, sans-serif;
+}
+
+#container {
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.field {
+  margin-bottom: 10px;
+}
+
+.input-field {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.remove {
+  background-color:brown;
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#add {
+  background-color:plum;
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
